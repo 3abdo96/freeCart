@@ -1,0 +1,14 @@
+
+.box{
+    transition: all 0.5s;
+}
+.box:hover{
+    box-shadow: 1px 1px 10px #59c356;
+    
+}
+
+.box img{
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
